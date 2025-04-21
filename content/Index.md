@@ -1,4 +1,7 @@
 - [[Общая генерация солара]]
 	- [[Солнечный Круг/🔆Чарник - Рассветный Банг|Банг Шишигами]] - пример Рассветного (так же [[Солнечный Круг/Действия у Банга|Действия у Банга]] - модификаторы от всех его способностей в разных ситуациях)
+- [[заметки по механике/Ex3 Common Actions Sheet.pdf|Ex3 Common Actions Sheet]]
+- [[заметки по механике/Ex3 ST Screen.pdf|Ex3 ST Screen]]
 - [[заметки по механике/Конспект по правилам боя]]
-	- [[static/ilide.info-exalted-3rd-ed-combat-primer-for-players-pr_22391063d05b28d5fcd1051ca8a9669e.pdf]]
+	- [[заметки по механике/ilide.info-ex3-combat-primer-for-players.pdf]]
+	- [[заметки по механике/Ex3 Weapons Sheet.pdf|Ex3 Weapons Sheet]]
