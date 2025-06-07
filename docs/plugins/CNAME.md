@@ -1,7 +1,7 @@
 ---
 title: CNAME
 tags:
-  - plugin/emitter
+  - 0000/0/plugin/emitter
 ---
 
 This plugin emits a `CNAME` record that points your subdomain to the default domain of your site.

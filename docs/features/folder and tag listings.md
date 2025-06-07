@@ -1,7 +1,7 @@
 ---
 title: Folder and Tag Listings
 tags:
-  - feature/emitter
+  - 0000/0/feature/emitter
 ---
 
 Quartz emits listing pages for any folders and tags you have.
@@ -26,7 +26,7 @@ Quartz also supports tag hierarchies as well (e.g. `plugin/emitter`) and will al
 
 You can link to the tag listing by referencing its name with a `tag/` prefix, like this: `[[tags/plugin]]` (results in [[tags/plugin]]).
 
-As with folder listings, you can also provide a description and title for a tag page by creating a file for each tag. For example, if you wanted to create a custom description for the #component tag, you would create a file at `content/tags/component.md` with a title and description.
+As with folder listings, you can also provide a description and title for a tag page by creating a file for each tag. For example, if you wanted to create a custom description for the #0000/0/component tag, you would create a file at `content/tags/component.md` with a title and description.
 
 ## Customization
 

@@ -5,3 +5,5 @@
 - [[заметки по механике/Конспект по правилам боя]]
 	- [[заметки по механике/ilide.info-ex3-combat-primer-for-players.pdf]]
 	- [[заметки по механике/Ex3 Weapons Sheet.pdf|Ex3 Weapons Sheet]]
+
+

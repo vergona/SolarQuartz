@@ -1,7 +1,7 @@
 ---
 title: TableOfContents
 tags:
-  - plugin/transformer
+  - 0000/0/plugin/transformer
 ---
 
 This plugin generates a table of contents (TOC) for Markdown documents. See [[table of contents]] for more information.

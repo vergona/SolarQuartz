@@ -1,7 +1,7 @@
 ---
 title: Assets
 tags:
-  - plugin/emitter
+  - 0000/0/plugin/emitter
 ---
 
 This plugin emits all non-Markdown static assets in your content folder (like images, videos, HTML, etc). The plugin respects the `ignorePatterns` in the global [[configuration]].
