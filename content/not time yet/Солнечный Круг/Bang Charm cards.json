@@ -1,0 +1,426 @@
+[
+  {
+    "count": 1,
+    "color": "lightSteelBlue",
+    "title": "Keywords",
+    "icon": "white-book-0",
+    "contents": [
+      "fill |1",
+      "property | Mute|  Charm’s cost will not add to Exalt’s anima level unless he wants it to.",
+      "property | Form| Only one MA Form Charm active at time. Switching, pay the difference in motes.",
+      "property | Mastery| In MA Charms, some greater effect for Solaroids.",
+      "fill |1",
+      "property |Decisive-only | If it’s an attack Charm, it can only be used with decisive attack. If it is defensive, only to defend against decisive attack.",
+      "property | Uniform|  This Charm has the same function for both withering and decisive attacks or defenses",
+      "fill |1",
+      "",
+      "",
+      ""
+    ],
+    "tags": [
+      "martial",
+      "falcon",
+      "simple",
+      "form"
+    ],
+    "card_font_size": "12"
+  },
+  {
+    "count": 1,
+    "color": "dimgray",
+    "title": "Fists of Iron Technique",
+    "icon": "fist",
+    "contents": [
+      "subtitle | Brawn 1, Ess 1",
+      "property | Cost | 1m",
+      "property | Type | Reflexive",
+      "property | Duration | Instant",
+      "rule",
+      "",
+      "text | This Charm allows the Exalt to <b>parry lethal damage with his bare hands</b>. In addition, his bare-handed <b>decisive strike does lethal damage</b> and his <b>withering damage ignores (Essence + Intimacy) soak</b>. The Intimacy in this context can be a Tie (as the Solar strikes a hated enemy or defends a beloved friend) or a Principle (as the Solar exults in the thrill of violence).",
+      "",
+      ""
+    ],
+    "tags": [
+      "reflexive",
+      "brawn"
+    ]
+  },
+  {
+    "count": 1,
+    "color": "Turquoise",
+    "title": "Drifting Leaf Elusion",
+    "icon": "dodging",
+    "contents": [
+      "subtitle | Dodge 2, Ess 1",
+      "property | Cost | 1m",
+      "property | Type | Reflexive",
+      "property | Duration | Instant",
+      "rule",
+      "",
+      "text | The Exalt slips away from an attack that would have struck her. When using this Charm, the Solar <b>successfully evades an attack roll bearing successes equal to his Evasion</b>. This Charm may be invoked after the attack roll is made.",
+      "text | ",
+      "fill | 10",
+      "",
+      ""
+    ],
+    "tags": [
+      "reflexive",
+      "dodge"
+    ]
+  },
+
+
+
+  {
+    "count": 1,
+    "color": "RosyBrown",
+    "title": "Falcon Style Art",
+    "icon": "falcon-moon",
+    "contents": [
+      "text |Falcon style is a high-flying art, its practitioners leaping across the battlefield to deliver powerful strikes or claim elevated vantages from which to deliver the finishing blow. In addition to attacks executed in midair, the style makes heavy use of grappling, locking enemies into painful submission holds or throwing them to the ground before executing punishing follow-ups. ",
+      "text | Its techniques are showy and spectacular, and many Falcon stylists draw flocks of bystanders to their fights — whether they’re wandering folk heroes or ruthlessly dishonorable brutes. Falcon style is most prominent in the South, although iconic masters have spread it to other directions."
+    ],
+    "tags": [
+      "martial",
+      "falcon",
+      "supplemental",
+      "uniform",
+      "mastery"
+    ],
+    "card_font_size": "11"
+  },
+    {
+    "count": 1,
+    "color": "RosyBrown",
+    "title": "Falcon Style Require",
+    "icon": "falcon-moon",
+    "contents": [
+      "text | <b>Falcon Weapons</b>: Falcon style’s unarmed attacks use all four limbs and  eadbutts. It’s compatible with the cestus, iron boots, tiger claws, and medium or heavy improvised weapons that deal bashing damage. Unarmed attacks enhanced by Falcon Charms can be stunted to deal lethal damage.",
+      "text |<b>Armor</b>: Falcon style is compatible with light armor.",
+      "text |<b>Complementary Abilities</b>: Falcon stylists use<b> Athletics and Dodge</b> for battlefield maneuverability",
+      "text |Falcon style is a high-flying art, its practitioners leaping across the battlefield to deliver powerful strikes or claim elevated vantages from which to deliver the finishing blow. In addition to attacks executed in midair, the style makes heavy use of grappling, locking enemies into painful submission holds or throwing them to the ground before executing punishing follow-ups. Its techniques are showy and spectacular, and many Falcon stylists draw flocks of bystanders to their fights — whether they’re wandering folk heroes or ruthlessly dishonorable brutes. Falcon style is most prominent in the South, although iconic masters have spread it to other directions."
+    ],
+    "tags": [
+      "martial",
+      "falcon",
+      "supplemental",
+      "uniform",
+      "mastery"
+    ],
+    "card_font_size": "12"
+  },
+   {
+    "count": 1,
+    "color": "RosyBrown",
+    "title": "Falcon Takes Flight",
+    "icon": "falcon-moon",
+    "contents": [
+      "subtitle | Martial Arts 2, Ess 1",
+      "property | Cost | 3m | Type | Supplemental",
+      "property | Key | Uniform, Mastery | Duration | Instant",
+      "rule",
+      "text | Stylist takes off with powerful leap, executing graceful aerial maneuvers with supreme agility. He <b>adds (MA/2, round up) successes </b>on jumping or flying based <b>disengage, rush, or rise from prone action</b>. Alternatively, immediately after attacking enemy, he can use <b>reflexive move action to move away without needing to disengage</b>, while he moves directly upward.",
+      "fill | 1",
+      "section | Mastery",
+      "text | If he is moving <u>to higher-elevation</u> terrain, or if he’s used a reflexive move action to do so that turn, <u>successes added are non-Charm</u>.",
+      ""
+    ],
+    "tags": [
+      "martial",
+      "falcon",
+      "supplemental",
+      "uniform",
+      "mastery"
+    ],
+    "card_font_size": "11"
+  },
+  {
+    "count": 1,
+    "color": "RosyBrown",
+    "title": "Swift Talon Strike",
+    "icon": "falcon-moon",
+    "contents": [
+      "subtitle | Martial Arts 2, Ess 1",
+      "property | Cost | 2m | Type | Supplemental",
+      "property | Key | Uniform, Mastery | Duration | Instant",
+      "rule",
+      "text | Launching herself at foe, stylist sharpens his talons with momentum and Essence. To use Charm, he must move into close range with enemy and attack him on the same turn, adding <b>1 auto-success on attack roll</b>. He <b>rerolls 1s until they cease to appear on damage roll or control grapple roll</b>. If stylist moved downward to reach close range, he <b>rerolls 2s as well as 1s</b>.",
+      "fill | 1",
+      "section | Mastery",
+      "text | If the stylist moved <u>downward to reach close range, success added to attack roll is non-Charm</u>.",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "tags": [
+      "martial",
+      "falcon",
+      "supplemental",
+      "uniform",
+      "mastery"
+    ],
+    "card_font_size": "11"
+  }, 
+    {
+    "count": 1,
+    "color": "RosyBrown",
+    "title": "Raptor’s Fatal Descent",
+    "icon": "falcon-moon",
+    "contents": [
+      "subtitle | Martial Arts 3, Ess 1",
+      "property | Cost | 2m, 1wp | Duration | Instant",
+      "property | Key | Decisive-only, Mastery  | Type | Simple ",
+      "rule",
+      "text | Stylist executes brutal aerial attack, plummeting down onto foe to strike with stunning force. He makes <b>decisive attack</b> against <b>prone enemy, or an enemy 1 range band vertically beneath</b>.",
+      "text | He adds max (Athletics or STR) <b>extra successes on attack roll as damage dice</b>. For <b>each 10 on damage roll, enemy -1 Initiative</b> (Solar don't gain). This leaves <b>stylist prone, but with no penalties</b>; however, he can’t use this Charm again until he’s risen.",
+      "text | <b>Mastery</b>: leaps down doesn't count as move action.",
+      "",
+      ""
+    ],
+    "tags": [
+      "martial",
+      "falcon",
+      "simple",
+      "add.cost",
+      "decisive-only",
+      "mastery"
+    ],
+    "card_font_size": "inherit"
+  },
+  {
+    "count": 1,
+    "color": "RosyBrown",
+    "title": "Falcon Form",
+    "icon": "falcon-moon",
+    "contents": [
+      "subtitle | Martial Arts 4, Ess 1",
+      "property | Cost | 8m | Type | Simple",
+      "property | Keywords | Form |  Duration | One Scene",
+      "rule",
+      "text | Spreading arms wide in emulation of falcon’s wingspan, stylist enters a stance as nimble as it's formidable. He <b>doubles 9s on grapple control</b> rolls and <b>adds (Athletics) to rounds of control</b> from which his throws and slams can benefit (Core p.201). ",
+      "text| He can use reflexive move actions to jump 1 range band straight up without rolling, and <b>falling damage halves round down</b>. He gains <u>+1 Defense against non-ranged attacks from enemies at lower</u> elevation, unless they have <b>Reaching</b> tag.",
+      "fill|1",
+      "section|",
+      "text| <b>Special activation rules</b>: When the stylist succeeds on an opposed movement roll or a grapple control roll with 5+ successes, he may reflexively enter Falcon Form.",
+      "",
+      ""
+    ],
+    "tags": [
+      "martial",
+      "falcon",
+      "simple",
+      "form"
+    ],
+    "card_font_size": "10"
+  },
+  
+  {
+    "count": 1,
+    "color": "Navy",
+    "title": "Blinding Battle Feint",
+    "icon": "cloak-dagger",
+    "contents": [
+      "subtitle | Stealth 3, Ess 1",
+      "property | Cost | 3m",
+      "property | Type | Supplemental",
+      "property | Duration | Instant",
+      "rule",
+      "text | The Solar leaps in and out of battle with nigh untraceable speed. He may use <b>(Dexterity + Stealth) to Join Battle, also as attempt to enter Stealth</b>. If he beats opponent’s Awareness-based Join Battle roll, he is automatically concealed, so long as there is place to hide. ",
+      "text|If foe uses Join Battle not with Awareness, he must make Awareness roll to spot Solar with <b>penalty (diff in Initiative)</b>, even if he rolled higher. If he fails check, Solar still vanishes from view.",
+      ""
+    ],
+    "tags": [
+      "stealth",
+      "supplemental"
+    ]
+  },
+  {
+    "count": 1,
+    "color": "Maroon",
+    "title": "Ideal Battle Knowledge Prana",
+    "icon": "warlord-helmet",
+    "contents": [
+      "subtitle | War 2, Ess 1",
+      "property | Cost | 3m",
+      "property | Type | Supplemental",
+      "property | Duration | Instant",
+      "rule",
+      "text | The Sun’s Chosen speak in tongues of valor and know the ways of war. As one who has studied or waged war for a lifetime, the Solar simply knows what to do in any combat situation. This Charm applies the <b>double 9s rulex to all of the Solar’s order actions (p. 209). </b>",
+      "fill | 2",
+      "section | Upgrade",
+      "text | At <b>War 5, Essence 3+</b>, the Exalt may pay 6 motes, 3 Initiative to enhance his orders with <b>double 8s</b>",
+      "fill | 3"
+    ],
+    "tags": [
+      "supplemental",
+      "war"
+    ],
+    "title_size": "10",
+    "card_width": "2.5in",
+    "card_height": "3.5in"
+  },
+
+
+  {
+    "count": 1,
+    "color": "DarkGoldenrod",
+    "title": "Monkey Leap Technique",
+    "icon": "muscle-up",
+    "contents": [
+      "subtitle | Athletics 2, Ess 1",
+      "property | Cost | 2m (1m after first if continue)",
+      "property | Type | Supplemental",
+      "property | Duration | Instant",
+      "rule",
+      "text | The Exalt leaps with the speed and grace of a striking hawk. Using this technique, a Solar may <b>automatically leap forward or straight up one range band</b>. A Solar using this Charm can easily leap to the top of a twenty foot wall or cross a Nexus street over rooftops, without having to roll. This <u>Charm counts as the Solar’s movement for the turn</u>. If Solar <b>continues to leap</b> to a different range band <b>each turn, cost is reduced to 1 mote after first activation.</b>",
+      "text | ",
+      "",
+      ""
+    ],
+    "tags": [
+      "athletics",
+      "supplemental"
+    ]
+  },
+    {
+    "count": 1,
+    "color": "DarkGoldenrod",
+    "title": "Soaring Crane Leap",
+    "icon": "muscle-up",
+    "contents": [
+      "subtitle | Athletics 3, Ess 1",
+      "property | Cost | 3m | Type | Reflexive ",
+      "property | Duration | Instant",
+      "rule",
+      "text | Striking efficacious pose, Exalt catches wind to slow a fall. This allows him to <b>drop down 2 range bands without damage</b>. For very long fall, Solar must use Charm once for 3 bands. He can also use it to drift long distances through the air, <b>expending move action to float forward single range band even as he continues to fall</b>. With adequate amount of thrust, he can glide across long horizontal distances without fall, equaling initial movement forward. Appropriate stunts can increase straight across movement before Exalt begins to drop.",
+      "",
+      ""
+    ],
+    "tags": [
+      "athletics",
+      "reflexive"
+    ],
+    "card_font_size": "inherit"
+  },
+  
+  {
+    "count": 1,
+    "color": "DarkGoldenrod",
+    "title": "Increasing Strength Exercise",
+    "icon": "muscle-up",
+    "contents": [
+      "subtitle | Athletics 3, Ess 1",
+      "property | Cost | 3m or 3i per dot",
+      "property | Type | Simple",
+      "property | Duration | One scene",
+      "rule",
+      "text | The Solar draws remarkable strength from deep within his core. For <b>every 3 motes or 3 Initiative</b> he spends, Strength score increases by 1. This Charm can't increase STR by more that [Essence] and to maximum of STR*2. Each dot of increase also <b>raises base damage of decisive attacks by 1. </b>",
+      "text | Through use of Increasing Strength Exercise, Solars can reach the Strength minimums required to attempt certain <b>feats of strength (p. 229)</b>",
+      "",
+      "",
+      ""
+    ],
+    "tags": [
+      "athletics",
+      "simple",
+      "add.cost"
+    ],
+    "title_size": "10"
+  },
+    {
+    "count": 1,
+    "color": "DarkGoldenrod",
+    "title": "Thunderbolt Attack Prana",
+    "icon": "muscle-up",
+    "contents": [
+      "subtitle | Athletics 3, Ess 1",
+      "property | Cost | 4m, 1wp  | Type | Supplemental",
+      "property | Key | Decisive-only  | Duration | Instant",
+      "rule",
+      "text | Exalt draws down on Essence around, pulling it through upper body, lungs, core and down into legs, and then explodes skyward, rising in Essence-laden arc. Charm supplements <b>nonranged attack</b> which can be made <b>against aerial targets up to short range, or ground targets at another range </b>. Solar leaps at target, striking - <b>damage is doubled after roll</b>. If he uses attack to move to another range, it <u>counts as move action for round</u>. After striking aerial opponent, he may fall 1 range without damage.",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "tags": [
+      "athletics",
+      "supplemental",
+      "add.cost",
+      "decisive-only"
+    ],
+    "card_font_size": "inherit",
+    "title_size": "11"
+  },
+
+  
+    {
+    "count": 1,
+    "color": "DarkGoldenrod",
+    "title": "Graceful Crane Stance",
+    "icon": "muscle-up",
+    "contents": [
+      "subtitle | Athletics 1, Ess 1",
+      "property | Cost | 3m",
+      "property | Type | Reflexive",
+      "property | Duration | One scene",
+      "rule",
+      "text | The Solar draws Essence through his pores and into his bones, suffusing and lightening his form and steadying his step. For the rest of the scene, he has perfect balance, and can stand or run on things too narrow or weak to support her normally, with no chance of falling or breaking through. he can run on a guy wire, stand on a crumbling parapet, balance on the tip of a pine tree, and perform many similar feats <b>without needing to roll (Dexterity + Athletics)</b>",
+      "fill|3"
+    ],
+    "tags": [
+      "reflexive",
+      "athletics"
+    ]
+  },
+  
+  
+  {
+    "count": 1,
+    "color": "DarkGoldenrod",
+    "title": "Lightning Speed",
+    "icon": "muscle-up",
+    "contents": [
+      "subtitle | Athletics 3, Ess 1",
+      "property | Cost | 3m",
+      "property | Type | Supplemental",
+      "property | Duration | Instant",
+      "rule",
+      "text | Like a flashing bolt, the Exalt streaks toward his goal, trailing streamers of anima. This Charm can be used to enhance a <b>rush action (see p. 197)</b>. The Exalt moves with terrific speed — <b> reroll all 5s and 6s until 5s and 6s fail to appear and add 1 automatic success</b>. Lightning Speed can also be used each interval of a <b>foot race or other test of speed (see p. 189).</b>",
+      "",
+      "",
+      ""
+    ],
+    "tags": [
+      "athletics",
+      "supplemental"
+    ]
+  },
+  {
+    "count": 1,
+    "color": "DarkGoldenrod",
+    "title": "Feather Foot Style",
+    "icon": "muscle-up",
+    "contents": [
+      "subtitle | Athletics 3, Ess 1",
+      "property | Cost | 3m",
+      "property | Type | Reflexive",
+      "property | Key | Mute",
+      "property | Duration | Until the Exalt stops running",
+      "rule",
+      "text | The Exalt may run across fluid surfaces. he may dash over unstable surfaces as if they were solid and move over surfaces no thicker than rice paper without breaking through. At full speed, he may also move across dangerous surfaces without getting hurt. This effect lasts until the Exalt stops dashing.",
+      "fill | 1 ",
+      "section | ",
+      "text | <b>Athletics 5, Essence 2</b>, Exalt can pause on unstable surfaces without breaking through; new duration of Charm “1 stunt”",
+      "fill | 2"
+    ],
+    "tags": [
+      "reflexive",
+      "athletics",
+      "mute"
+    ]
+  }
+]
