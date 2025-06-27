@@ -1,3 +1,7 @@
+---
+tags:
+  - 1-Сторителл/Exalted/SolaRoad
+---
 https://exaltedbitva.narod.ru/mira1.html
 ## Эссенция
 

@@ -1,20 +1,8 @@
 ---
-aliases:
-  - генерация сайдрилов
-  - генерация сторонних
 tags:
-  - 1-Сторителл/Exalted/сторонний
-vaultpart: кампейны
-topics:
-  - игровые персонажи
-  - сайдрилы
-actors🎀:
-  - =
-chronology🎀:
-  - =
-lastdate🎀: 
-cssclasses:
+  - 1-Сторителл/Exalted/SolaRoad
 ---
+#1-Сторителл/Exalted/сторонний 
 # Чарник
 For one mote, a Sidereal can:  
 • Manifest her Caste Mark for as long as she wishes.  

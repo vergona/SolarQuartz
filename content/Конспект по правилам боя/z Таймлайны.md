@@ -1,3 +1,7 @@
+---
+tags:
+  - 1-Сторителл/Exalted/SolaRoad
+---
 ### Таймлайны
 - [гугл-таблица по канонам](https://docs.google.com/spreadsheets/d/1hbupBI9TtDk37P0TvCA30nste7Cs9IKYDh2jHlmsGVo/edit?gid=2073022607#gid=2073022607)
 - сводный таймлайн по всем эпохам http://exalted.xi.co.nz/wiki/CreationTimeline#Year_3494
