@@ -12,5 +12,5 @@
 [[01. Once, there was a maiden/01. Жила-была дева..|01. Жила-была дева..]]
 
 
-[[../Автохтония/DeepSeek 8 - Пневма|DeepSeek 8 - Пневма]]
-[[../Автохтония/Ср.бот -Sphinx Of Black Quartz|Ср.бот -Sphinx Of Black Quartz]]
+[[Автохтония/DpSk 8 - Пневма|DpSk 8 - Пневма]]
+[[Автохтония/Ср.бот -Sphinx Of Black Quartz|Ср.бот -Sphinx Of Black Quartz]]
