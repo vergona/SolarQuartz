@@ -20,4 +20,4 @@ tags:
 | Realm Begins | 4449 | 4110 | 0 |
 | Present | 5217 | 4878 | 768 |
 
-
+![[outcastes - shogunate calendar.png]]
