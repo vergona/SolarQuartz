@@ -8,8 +8,8 @@
 - [[Действия у Банга]]
 
 [[01. Once, there was a maiden/0. Вся история Лиловой Жемчужины|0. Вся история Лиловой Жемчужины]] - закулисное
-[[01. Once, there was a maiden/Черновик сюжета|Черновик сюжета]]
-[[01. Once, there was a maiden/01. Жила-была дева..|01. Жила-была дева..]]
+[[01. Once, there was a maiden/Планирование|Планирование]]
+[[01. Once, there was a maiden/01. Once, there was a maiden|01. Once, there was a maiden]]
 
 
 [[Автохтония/DpSk 8 - Пневма|DpSk 8 - Пневма]]
