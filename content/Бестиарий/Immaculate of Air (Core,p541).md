@@ -1,3 +1,7 @@
+---
+status:
+  - published
+---
 **Essence**: 2; **Willpower**: 6; **Join Battle**: 6 dice (+2 for 2m)  
 **Personal Motes**: 13; **Peripheral Motes**: 31  
 **Health Levels**: -0/-1x3/-2x3/-4/Incap.  

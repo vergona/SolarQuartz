@@ -1,3 +1,7 @@
+---
+status:
+  - published
+---
 This is a Dragon-Blood who has been Exalted for over a century and has grown into formidable elemental power, the battlefield prowess of a fire-proven general, and the social savvy needed to stay afoot in the intrigues of the Realm. 
 
 **Essence**: 3; **Willpower**: 7; **Join Battle**: 8 dice (+4 for 4m) 
