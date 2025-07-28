@@ -37,4 +37,4 @@ To Dice adders or not to dice adders: this is up to you, many beings don't have 
 [7:30]Sokarera: 'i used to be the god of axes in the division of tools, but then Fransia died fighting against the Crusade, so I got promoted into axes of violence as a liaision between tools and weapons.'
 
 [7:51]Sev: The rough idea was that he was a god who got given a good deal by the Gold Faction to help destabilize the Realm via supporting a patrician criminal organization. The bribe? When the overall leadership is thrown into chaos and the dust settles, the Gold Faction will make sure the axe will supplant the sword as a symbol of the new ruling faction's office, thus upping his importance.
-: Also, thank you very much everyone for the help in fleshing him out mechanically!
+Also, thank you very much everyone for the help in fleshing him out mechanically!
